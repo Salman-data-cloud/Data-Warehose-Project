@@ -8,3 +8,18 @@ Tools & Stack:
 3. CSV files (6 datasets)
 4. Manual Data Modeling
 5. Self-debugging with SELECT, JOIN, LEN(), TRIM(), etc.
+
+Structure of Project:
+
+Salman-data-cloud/
+│
+├── datasets/         # Raw CRM + ERP CSV datasets (excluded in final commit)
+├── docs/             # Placeholder for ERD diagrams or documentation (still working)
+├── scripts/          # SQL scripts (table creation, insertions, views, etc.)
+├── tests/            # For future test cases or validation scripts
+├── LICENSE           # License for open sharing
+└── README.md         # Project overview and learning notes
+
+Medallion Architecture Diagram:
+![Data Warehouse Diagram](docs/DW SQL.jpg)
+
