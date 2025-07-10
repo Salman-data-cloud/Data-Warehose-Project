@@ -21,5 +21,5 @@ Salman-data-cloud/
 └── README.md         # Project overview and learning notes
 
 Medallion Architecture Diagram:
-![Data Warehouse Diagram](docs/DW SQL.jpg)
+![Model diagram](docs/dw_SQL.jpg)
 
